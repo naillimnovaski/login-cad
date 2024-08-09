@@ -128,5 +128,5 @@ function validarEmail(email) {
 - GitHub
 
 ## Autores 👥
-- [Seu Nome](https://github.com/seu-usuario)
+- [Naillim Novaski](https://github.com/naillimnovaski/login-cad)
 
