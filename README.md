@@ -116,7 +116,7 @@ function validarEmail(email) {
 
 
 - *Explicação*:
-  - A função validarEmail usa uma expressão regular para verificar se o e-mail segue o formato correto (ex: usuario@dominio.com).
+  - A função validarEmail usa uma expressão regular para verificar se o e-mail segue o formato correto.
   - Se o e-mail não estiver no formato correto, o sistema impede o cadastro até que um e-mail válido seja inserido.
 
 ## Tecnologias Utilizadas 🖥️
