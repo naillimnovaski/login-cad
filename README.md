@@ -130,6 +130,8 @@ function validarEmail(email) {
   - A função validarEmail usa uma expressão regular para verificar se o e-mail segue o formato correto.
   - Se o e-mail não estiver no formato correto, o sistema impede o cadastro até que um e-mail válido seja inserido.
 
+  <img src="imagem-email.png">
+
 ## Tecnologias Utilizadas 🖥️
 - Visual Studio Code
 - HTML5
