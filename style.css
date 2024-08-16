@@ -1,0 +1,67 @@
+/* Estilos para o formulário */
+#formCadastro {
+    margin: 20px;
+}
+
+#formCadastro input {
+    padding: 10px;
+    margin-right: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+#formCadastro button {
+    padding: 10px 15px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+#formCadastro button:hover {
+    background-color: #45a049;
+}
+
+/* Estilos para a tabela */
+#tabela {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px 0;
+}
+
+#tabela th, #tabela td {
+    padding: 10px;
+    border: 1px solid #ddd;
+    text-align: left;
+}
+
+#tabela th {
+    background-color: #f4f4f4;
+}
+
+#tabela tr:nth-child(even) {
+    background-color: #f9f9f9;
+}
+
+#tabela button {
+    padding: 5px 10px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-right: 5px;
+}
+
+#tabela button:hover {
+    opacity: 0.8;
+}
+
+button.editar {
+    background-color: #ffa500;
+    color: white;
+}
+
+button.excluir {
+    background-color: #f44336;
+    color: white;
+}
